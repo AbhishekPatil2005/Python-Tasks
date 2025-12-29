@@ -29,8 +29,16 @@ This repository contains multiple Python GUI applications developed during my in
 - Tkinter
 - Random & String modules
 
-▶ How to Run
-1. Install Python (3.x)
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/AbhishekPatil2005/Python-Tasks.git
+📷 Screenshots
+
+Calculator Application
+![Calculator](screenshots/calculator.png)
+
+Password Generator
+![Password Generator](screenshots/password_generator.png)
+
+Rock Paper Scissors Game
+![Rock Paper Scissors](screenshots/rock_paper_scissor.png)
+
+To-Do List Application
+![To-Do List](screenshots/todo_list.png)
