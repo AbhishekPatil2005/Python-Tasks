@@ -42,3 +42,24 @@ Rock Paper Scissors Game
 
 To-Do List Application
 ![To-Do List](screenshots/todo_list.png)
+
+▶️ How to Run the Projects
+
+1. Make sure Python (3.x) is installed on your system.
+2. Download or clone this repository:
+   ```bash
+   git clone https://github.com/AbhishekPatil2005/Python-Tasks.git
+
+🎓 College Details
+
+College Name: Nowrosjee Wadia College, Pune
+Course: B.Sc. Information Technology
+Academic Year: 2025–2026
+
+🏢 Internship at CodSoft!
+
+Internship Role: Python Programming Intern
+Internship Type: Virtual Internship
+Internship Duration: 4 Weeks
+
+These projects were developed as part of my internship to gain hands-on experience in Python programming and GUI application development using Tkinter.
